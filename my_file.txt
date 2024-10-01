@@ -1,0 +1,6 @@
+Line 1: Hello, World!
+Line 2: Welcome to file handling
+Line 3: You will love working with files
+Line 4: Appending this line.
+Line 5: write more content.
+Line 6: Your line has been added to the file.
